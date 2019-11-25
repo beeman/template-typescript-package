@@ -17,7 +17,7 @@ A boilerplate repo for publishing typescript packages to npm
 
 Some notes on how to use this repo. Some day I'll hopefully automate the biggest part of this.
 
-### Clone the repo:
+### Clone the repo or [generate](https://github.com/beeman/template-typescript-package/generate) your repo:
 
 ```shell script
 npx degit https://github.com/beeman/template-typescript-package my-new-package
