@@ -1,7 +1,7 @@
 {
-  "name": "template-typescript-package",
+  "name": "search-replace",
   "version": "0.0.0-development",
-  "description": "A boilerplate repo for publishing typescript packages to npm",
+  "description": "A simple tool to help you search/replace throughout a codebase",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
